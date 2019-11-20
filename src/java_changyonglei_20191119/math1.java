@@ -1,4 +1,4 @@
-package java_changyonglei;
+package java_changyonglei_20191119;
 //实现10到200的随机数
 public class math1 {
     public static void main(String[] args) throws InterruptedException {
