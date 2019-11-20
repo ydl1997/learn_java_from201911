@@ -1,7 +1,6 @@
-package java_changyonglei;
+package java_changyonglei_20191119;
 //获取当前日期
 import java.util.Calendar;
-import java.util.Date;
 
 public class Calendar1 {
     public static void main(String[] args) {
